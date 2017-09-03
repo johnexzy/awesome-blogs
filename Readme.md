@@ -10,7 +10,21 @@ https://antfu.me/
 
 https://frankchimero.com/
 
+https://devjavu.space
+
+https://afrodev.space
+
+https://nwobodo.me
 
 ## TOOLS
 
+### Shape Divider
 https://www.shapedivider.app/
+
+### Background removal
+
+https://remove.bg
+
+### QR code
+
+https://express.adobe.com/tools/qr-code-generator
