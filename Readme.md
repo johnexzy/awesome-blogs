@@ -16,6 +16,11 @@ https://afrodev.space
 
 https://nwobodo.me
 
+## CSS
+
+[CSS TRICKS](https://css-tricks.com/)
+[Smashing Magazine](https://www.smashingmagazine.com/)
+
 ## TOOLS
 
 ### Shape Divider
