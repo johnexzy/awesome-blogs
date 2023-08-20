@@ -37,3 +37,7 @@ https://express.adobe.com/tools/qr-code-generator
 ## On-page tour and onboarding
 
 https://driverjs.com/docs/installation
+
+## Indie Inspiration
+
+https://blog.yongfook.com/12-startups-in-12-months.html
